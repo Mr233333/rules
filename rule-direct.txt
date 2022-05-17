@@ -1,2 +1,2 @@
 payload:
-  - 'baidu.com'
+  - '+.baidu.com'
